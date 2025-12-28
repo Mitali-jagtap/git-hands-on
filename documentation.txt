@@ -1,0 +1,1 @@
+This project demonstrates basic usage of Git version control system. It includes creating a local repository, checking repository status, and understanding how Git tracks changes. The project helps beginners learn essential Git commands used in real-world software development for managing source code efficiently.
